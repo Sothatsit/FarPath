@@ -1,0 +1,8 @@
+main: net.sothatsit.farpath.FarPath
+author: sothatsit
+name: FarPath
+version: 1.0.0
+api-version: '1.13'
+commands:
+   farpath:
+      description: 'FarPath main command'
